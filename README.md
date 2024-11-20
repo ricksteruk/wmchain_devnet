@@ -1,1 +1,0 @@
-# wmchain_devnet

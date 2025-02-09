@@ -102,6 +102,7 @@ This YouTube playlist has a really good guide to getting started with EVM and th
 
 It follows along with parts of [Speed Run Ethereum](https://speedrunethereum.com)
 
+Video guide to mint ERC-20 on Eth https://youtu.be/SuPs-s6DPQU?si=mRYXIYmbmnxVsu-r
 
 ## Other Community created guides
 

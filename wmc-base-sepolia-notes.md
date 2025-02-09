@@ -94,6 +94,7 @@ Visit Trident's site, connect your wallet and try to claim some Lampo and then s
 
 This video shows you how simple it is to mint some Meme coins on the WM Chain - you just need to connect your wallet on the WM Chain instead of AVAX testnet as shown
 https://youtu.be/4bN9QRTs_1k?si=gBj-1u8lEMnS0Z2G
+<br>
 ( updated version of his video guide to mint ERC-20 on Eth https://youtu.be/SuPs-s6DPQU?si=mRYXIYmbmnxVsu-r )
 
 Mint some meme coins and send them to other peopele in Discord!  They will tell you their wallet addresses if you ask them who wants your coins!!
